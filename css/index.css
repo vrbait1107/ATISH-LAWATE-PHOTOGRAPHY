@@ -73,7 +73,7 @@ h3 {
 
 #home-container::before {
   content: "";
-  background-image: url(../images/image8.jpg);
+  background-image: url(../images/home-img.jpg);
   background-size: cover;
   position: absolute;
   top: 0px;
